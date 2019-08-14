@@ -1,8 +1,8 @@
-#네트워크의 핵심을 정의하는 디렉토리.
+# 네트워크의 핵심을 정의하는 디렉토리.
 
 configtx.yaml, core.yaml, orderer.yaml,  3개의 파일로 구성.
 
-##configtx.yaml
+## configtx.yaml
 
 채널에 대한 정책과 조직 정보 및 앵커피어를 정의하고
 ordering 서비스의 타입과 블록 생성 시간 및 블록의 최대 크기 등을 정의하는 파일.
